@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Set the font for the entire document */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+.counter {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #333;
+}
+
+.counter-number {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.button{
+  font-size: 16px;
+  padding: 10px 20px;
+}
